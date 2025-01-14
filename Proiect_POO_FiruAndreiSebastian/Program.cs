@@ -60,7 +60,7 @@
             }
             else
             {
-                Console.WriteLine("Email sau parola invalide!");
+                Console.WriteLine("Email sau parola invalida!");
             }
         }
 
@@ -69,6 +69,7 @@
             Console.WriteLine("1. Vizualizare comenzi clienti");
             Console.WriteLine("2. Comanda materie");
             Console.WriteLine("3. Preluare materie");
+            Console.WriteLine("0. Delogare");
             int optiune = int.Parse(Console.ReadLine());
 
             switch (optiune)
@@ -88,6 +89,8 @@
                     int idMaterie = int.Parse(Console.ReadLine());
                     ((Angajat)utilizatorAutentificat).PreluareMaterie(idMaterie);
                     break;
+                case 0: Logare();
+                    break;
             }
         }
 
@@ -98,6 +101,7 @@
             Console.WriteLine("3. Vizualizare detalii comanda");
             Console.WriteLine("4. Ridicare comanda");
             Console.WriteLine("5. Review comanda");
+            Console.WriteLine("0. Delogare");
             int optiune = int.Parse(Console.ReadLine());
 
             switch (optiune)
@@ -129,6 +133,7 @@
                     int stele = int.Parse(Console.ReadLine());
                     ((Client)utilizatorAutentificat).ReviewComanda(idReview, stele);
                     break;
+                case 0: Logare(); break;
             }
         }
     }

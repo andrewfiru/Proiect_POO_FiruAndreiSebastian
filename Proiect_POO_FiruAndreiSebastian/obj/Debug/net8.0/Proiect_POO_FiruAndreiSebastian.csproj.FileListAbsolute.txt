@@ -12,3 +12,4 @@ C:\Users\andre\RiderProjects\Proiect_POO_FiruAndreiSebastian\Proiect_POO_FiruAnd
 C:\Users\andre\RiderProjects\Proiect_POO_FiruAndreiSebastian\Proiect_POO_FiruAndreiSebastian\obj\Debug\net8.0\Proiect_POO_FiruAndreiSebastian.pdb
 C:\Users\andre\RiderProjects\Proiect_POO_FiruAndreiSebastian\Proiect_POO_FiruAndreiSebastian\obj\Debug\net8.0\Proiect_POO_FiruAndreiSebastian.genruntimeconfig.cache
 C:\Users\andre\RiderProjects\Proiect_POO_FiruAndreiSebastian\Proiect_POO_FiruAndreiSebastian\obj\Debug\net8.0\ref\Proiect_POO_FiruAndreiSebastian.dll
+C:\Users\andre\RiderProjects\Proiect_POO_FiruAndreiSebastian\Proiect_POO_FiruAndreiSebastian\obj\Debug\net8.0\Proiect_POO_FiruAndreiSebastian.sourcelink.json
